@@ -30,4 +30,10 @@ object sorgo {
 object mijo {
 	
 }
+object canelones {
+	//canelon = 20
+	//salsa = 5 
+	//queso = 7
+	
+}
 // despues, agregar mijo y canelones
